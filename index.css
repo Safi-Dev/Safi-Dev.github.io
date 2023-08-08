@@ -209,7 +209,7 @@ body {
   font-weight: bold;
 }
 
-@keyframes rainbowText {
+@keyframes rainbow{
   0% {
     color: red;
   }
@@ -247,7 +247,7 @@ body {
   text-decoration: none;
   font-family: "Questrial", sans-serif;
   font-weight: bold;
-  animation: rainbowText 8s infinite;
+	animation: rainbow 2.5s linear;
 }
 
 #profile_img {
@@ -621,45 +621,4 @@ body {
       ),
       url("https://images.unsplash.com/photo-1553748024-d1b27fb3f960?w=1500&q=80") !important;
   }
-}
-/*TEST*/
-@keyframes rainbowText {
-  0% {
-    color: red;
-  }
-  14% {
-    color: orange;
-  }
-  28% {
-    color: yellow;
-  }
-  42% {
-    color: green;
-  }
-  57% {
-    color: blue;
-  }
-  71% {
-    color: indigo;
-  }
-  85% {
-    color: violet;
-  }
-  100% {
-    color: red;
-  }
-}
-
-#footer {
-  width: 100%;
-  padding: 8vh 0px;
-  text-align: center;
-}
-
-#footer a {
-  color: var(--text-color) !important;
-  text-decoration: none;
-  font-family: "Questrial", sans-serif;
-  font-weight: bold;
-  animation: rainbowText 8s infinite;
 }
