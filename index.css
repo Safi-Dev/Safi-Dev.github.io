@@ -258,7 +258,7 @@ body {
   text-decoration: none;
   font-family: "Questrial", sans-serif;
   font-weight: bold;	
-  animation: rainbow 2.5s linear;
+  animation: rainbow 2.5s infinite;
 }
 
 #profile_img {
