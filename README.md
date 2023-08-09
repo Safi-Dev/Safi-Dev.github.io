@@ -2,4 +2,4 @@
 Personal website featuring my GitHub projects, current username, profile picture, description and other general information
 Made using HTML and CSS
 
-elements taken from [gitfolio](https://github.com/imfunniee/gitfolio)
+some elements taken from [gitfolio](https://github.com/imfunniee/gitfolio)
